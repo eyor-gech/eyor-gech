@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/eyor-gech?v=4](https://avatars.githubusercontent.com/u/190836191?v=4)" width="150" style="border-radius: 50%;" alt="Eyor Getachew's Profile Picture">
+  <img src="https://avatars.githubusercontent.com/u/190836191?v=4" width="150" style="border-radius: 50%; border: 5px solid #000; height: 150px; object-fit: cover;" alt="Eyor Getachew's Profile Picture">
 </p>
 
 🔹 Data Scientist | Machine Learning Engineer | AI Enthusiast
